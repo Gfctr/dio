@@ -246,8 +246,10 @@ footer{
 }
 
 footer .footer{
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: center;
     color: #fff;
+    /* align-items: center; */
 }
 
 /* mobile */
