@@ -13,3 +13,23 @@
   text-align: center;
   margin: 5px;
 }
+
+.o1 {
+  order: 1;
+}
+
+.o2 {
+  order: 2;
+}
+
+.o3 {
+  order: 3;
+}
+
+.o4 {
+  order: 4;
+}
+
+.direction {
+  flex-direction: column;
+}
